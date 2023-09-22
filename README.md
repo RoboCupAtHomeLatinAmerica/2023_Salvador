@@ -1,6 +1,6 @@
 # Robocup@HOME - Brazil - 2022 - São Bernardo Do Campo
 
-- [Scores](Informações-Names.pdf)
+- [Scores](Informações-Scores.pdf)
 - [Schedule](Informações-Schedule.pdf)
 - [Person Names](Informações-Names.pdf)
 - [Predefined Questions](Informações-Questions.pdf)
