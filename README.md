@@ -1,4 +1,4 @@
-# Robocup@HOME - Brazil - 2022 - São Bernardo Do Campo
+# Robocup@HOME - Brazil - 2023 - Salvador
 
 - [Scores](Informações-Scores.pdf)
 - [Schedule](Informações-Schedule.pdf)
