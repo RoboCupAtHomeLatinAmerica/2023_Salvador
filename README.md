@@ -2,7 +2,7 @@
 
 - [Scores](Informações-Names.pdf)
 - [Schedule](Informações-Schedule.pdf)
-- [Person Names](Informações-Name.pdf)
+- [Person Names](Informações-Names.pdf)
 - [Predefined Questions](Informações-Questions.pdf)
 
 ## Arena layout:
