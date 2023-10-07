@@ -109,31 +109,47 @@ Table of contents:
     <th>Pantry items</th>
     <th>Fruits</th>
     <th>Snacks</th>
-    <th>Cutlery</th>
+    <!-- <th>Cutlery</th> -->
   </tr>
   <tr>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Drinks 1</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Cleaning supplies 1</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Pantry items 1</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Fruits 1</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Snacks 1</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 1</td>
+    <td><img src="Objects/nescau.jpeg" width="50%"/><br>Nescau</td>
+    <td><img src="Objects/detergent.jpeg" width="50%"/><br>Detergent</td>
+    <td><img src="Objects/gelatin.jpeg" width="50%"/><br>Gelatin</td>
+    <td><img src="Objects/apple.jpeg" width="50%"/><br>Apple</td>
+    <td><img src="Objects/treloso.jpeg" width="50%"/><br>Treloso</td>
+    <!-- <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 1</td> -->
   </tr>
   <tr>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Drinks 2</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Cleaning supplies 2</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Pantry items 2</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Fruits 2</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Snacks 2</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 2</td>
+    <td><img src="Objects/kuat.jpeg" width="50%"/><br>Kuat</td>
+    <td><img src="Objects/sponge.jpeg" width="50%"/><br>Sponge</td>
+    <td><img src="Objects/mustard.jpeg" width="50%"/><br>Mustard</td>
+    <td><img src="Objects/pear.jpeg" width="50%"/><br>Pear</td>
+    <td><img src="Objects/chocolate.jpeg" width="50%"/><br>Chocolate</td>
+    <!-- <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 2</td> -->
   </tr>
   <tr>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Drinks 3</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Cleaning supplies 3</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Pantry items 3</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Fruits 3</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Snacks 3</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 3</td>
+    <td><img src="Objects/coconut_water.jpeg" width="50%"/><br>Cononut water</td>
+    <td><img src="Objects/cloth.jpeg" width="50%"/><br>Cloth</td>
+    <td><img src="Objects/shoyo.jpeg" width="50%"/><br>Shoyo</td>
+    <td><img src="Objects/tangerine.jpeg" width="50%"/><br>Tangerine</td>
+    <td><img src="Objects/peanut.jpeg" width="50%"/><br>Peanut</td>
+    <!-- <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 3</td> -->
+  </tr>
+  <tr>
+    <td><img src="Objects/fanta.jpeg" width="50%"/><br>Fanta</td>
+    <td><img src="" width="50%"/><br></td>
+    <td><img src="Objects/sauce.jpeg" width="50%"/><br>Sauce</td>
+    <td><img src="" width="50%"/><br></td>
+    <td><img src="" width="50%"/><br></td>
+    <!-- <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 3</td> -->
+  </tr>
+  <tr>
+    <td><img src="" width="50%"/><br></td>
+    <td><img src="" width="50%"/><br></td>
+    <td><img src="Objects/tea.jpeg" width="50%"/><br>Tea</td>
+    <td><img src="" width="50%"/><br></td>
+    <td><img src="" width="50%"/><br></td>
+    <!-- <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 3</td> -->
   </tr>
 </table>
 
@@ -142,7 +158,7 @@ Table of contents:
 
 <table>
   <tr>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Bag</td>
+    <td><img src="Objects/bag.jpeg" width="50%"/><br>Bag</td>
     <td><img src="Objects/fruit.jpg" width="50%"/><br>Garbage Bin</td>
     <td><img src="Objects/fruit.jpg" width="50%"/><br>Garbage Lid</td>
     <td><img src="Objects/fruit.jpg" width="50%"/><br>Garbage</td>
