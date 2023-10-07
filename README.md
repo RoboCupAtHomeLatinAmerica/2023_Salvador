@@ -56,6 +56,20 @@ Table of contents:
 | Team meating 4: | Doubts about PH    |                                 |                                                       |
 | Team meating 5: | Doubts about Final | Election of the next OC members | What do we expect for the next years at robocup@home? |
 
+## Teams
+
+|   | Names                  | Captain       |
+| - | ---------------------- | ------------- |
+| 1 | BahiaRT @Home          | To be defined |
+| 2 | Warthog Robotics @Home | To be defined |
+| 3 | UTBots@Home            | To be defined |
+| 4 | RoboFEI@Home           | To be defined |
+| 5 | FBots                  | To be defined |
+| 6 | RoboFEI@Work           | To be defined |
+| 7 | PQMEC@HOME             | To be defined |
+| 8 | PinguimBots@Home       | To be defined |
+
+
 ## Arena layout:
 
 <table>
