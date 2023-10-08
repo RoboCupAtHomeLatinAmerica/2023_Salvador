@@ -163,7 +163,7 @@ Table of contents:
     <td><img src="Objects/bag.jpeg" width="50%"/><br>Bag</td>
     <td><img src="Objects/garbage_bin.jpeg" width="50%"/><br>Garbage Bin</td>
     <td><img src="Objects/garbage_lid.jpeg" width="50%"/><br>Garbage Lid</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Garbage</td>
+    <td><img src="Objects/garbage.jpeg" width="50%"/><br>Garbage</td>
   </tr>
 <table>
 
