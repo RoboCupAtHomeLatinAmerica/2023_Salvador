@@ -27,12 +27,12 @@ Table of contents:
 | 14:00 | Warm-up        | PSWR           | S1 - MOR       | S2 - HK        | S2 - PH        | Award ceremony |
 | 14:30 | Warm-up        | PSWR           | S1 - MOR       | S2 - HK        | S2 - PH        | Award ceremony |
 | 15:00 | Warm-up        | PSWR           | S1 - MOR       |                |                | Award ceremony |
-| 15:30 | Warm-up        | PSWR           | S1 - MOR       | S2 - HK        | S2 - PH        | Award ceremony |
+| 15:30 | Warm-up        | Inspection     | S1 - MOR       | S2 - HK        | S2 - PH        | Award ceremony |
 | 16:00 | Warm-up        | Inspection     |                | S2 - HK        | S2 - PH        |                |
-| 16:30 | Warm-up        | Inspection     |                |                |                |                |
-| 17:00 | Warm-up        | Inspection     | S1 - PR        | S2 - HK        | S2 - Retry     |                |
-| 17:30 | Warm-up        | Inspection     | S1 - PR        | S2 - HK        | S2 - Retry     |                |
-| 18:00 | Team meating 1 | Team meating 2 | S1 - PR        |                |                |                |
+| 16:30 | Warm-up        | Inspection.    |                |                |                |                |
+| 17:00 | Warm-up        | Team meating 2 | S1 - PR        | S2 - HK        | S2 - Retry     |                |
+| 17:30 | Warm-up        |                | S1 - PR        | S2 - HK        | S2 - Retry     |                |
+| 18:00 | Team meating 1 | Opening ceremony| S1 - PR        |                |                |                |
 | 18:30 |                |                | S1 - PR        | S2 - HK        | S2 - Retry     |                |
 | 19:00 |                |                | S1 - PR        | S2 - HK        | S2 - Retry     |                |
 | 19:30 |                |                | S1 - PR        | Team meating 4 | Team meating 5 |                |
@@ -58,16 +58,16 @@ Table of contents:
 
 ## Teams
 
-|   | Names                  | Captain       |
-| - | ---------------------- | ------------- |
-| 1 | BahiaRT @Home          | To be defined |
-| 2 | Warthog Robotics @Home | To be defined |
-| 3 | UTBots@Home            | To be defined |
-| 4 | RoboFEI@Home           | To be defined |
-| 5 | FBots                  | To be defined |
-| 6 | RoboFEI@Work           | To be defined |
-| 7 | PQMEC@HOME             | To be defined |
-| 8 | PinguimBots@Home       | To be defined |
+|   | Names                  | Captain           |
+| - | ---------------------- | ----------------- |
+| 1 | BahiaRT @Home          | Tamir Amorim.     |
+| 2 | Warthog Robotics @Home | Rhayna Casado.    |
+| 3 | UTBots@Home            | João Fabro.       |
+| 4 | RoboFEI@Home           | Flora Aidar.      |
+| 5 | FBots                  | Jardel Dionizio.  |
+| 6 | RoboFEI@Work           | ----------------- |
+| 7 | PQMEC@HOME             | José Teles.       |
+| 8 | PinguimBots@Home       | kristofer Kappel. |
 
 
 ## Arena layout:
@@ -83,7 +83,7 @@ Table of contents:
 
 <table>
   <tr>
-    <td><img src="Arena/arena_2d.jpeg" /><br>Inspection</td>
+    <td><img src="Arena/arena_inspection.jpeg" /><br>Inspection</td>
   </tr>
   <tr>
     <td><img src="Arena/arena_2d.jpeg" /><br>Navigation and Follow Me</td>
@@ -159,8 +159,8 @@ Table of contents:
 <table>
   <tr>
     <td><img src="Objects/bag.jpeg" width="50%"/><br>Bag</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Garbage Bin</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Garbage Lid</td>
+    <td><img src="Objects/garbage_bin.jpeg" width="50%"/><br>Garbage Bin</td>
+    <td><img src="Objects/garbage_lid.jpeg" width="50%"/><br>Garbage Lid</td>
     <td><img src="Objects/fruit.jpg" width="50%"/><br>Garbage</td>
   </tr>
 <table>
