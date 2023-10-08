@@ -75,8 +75,8 @@ Table of contents:
 <table>
   <tr>
     <td><img src="Arena/arena_2d.jpeg" /></td>
-    <td><img src="Arena/arena_3d_1.jpeg" /></td>
-    <td><img src="Arena/arena_3d_2.jpeg" /></td>
+    <td><img src="Arena/arena_3d_1.jpg" /></td>
+    <td><img src="Arena/arena_3d_2.jpg" /></td>
 <table>
 
 ## Tasks setup:
@@ -137,18 +137,18 @@ Table of contents:
   </tr>
   <tr>
     <td><img src="Objects/fanta.jpeg" width="50%"/><br>Fanta</td>
-    <td><img src="" width="50%"/><br></td>
+    <td><br></td>
     <td><img src="Objects/sauce.jpeg" width="50%"/><br>Sauce</td>
-    <td><img src="" width="50%"/><br></td>
-    <td><img src="" width="50%"/><br></td>
+    <td><br></td>
+    <td><br></td>
     <!-- <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 3</td> -->
   </tr>
   <tr>
-    <td><img src="" width="50%"/><br></td>
-    <td><img src="" width="50%"/><br></td>
+    <td><br></td>
+    <td><br></td>
     <td><img src="Objects/tea.jpeg" width="50%"/><br>Tea</td>
-    <td><img src="" width="50%"/><br></td>
-    <td><img src="" width="50%"/><br></td>
+    <td><br></td>
+    <td><br></td>
     <!-- <td><img src="Objects/fruit.jpg" width="50%"/><br>Cutlery 3</td> -->
   </tr>
 </table>
