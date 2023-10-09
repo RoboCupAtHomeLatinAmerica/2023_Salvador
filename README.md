@@ -62,7 +62,7 @@ Table of contents:
 | - | ---------------------- | ----------------- |
 | 1 | BahiaRT @Home          | Tamir Amorim.     |
 | 2 | Warthog Robotics @Home | Rhayna Casado.    |
-| 3 | UTBots@Home            | João Fabro.       |
+| 3 | UTBots@Home            | Gustavo Fardo.    |
 | 4 | RoboFEI@Home           | Flora Aidar.      |
 | 5 | FBots                  | Jardel Dionizio.  |
 | 6 | RoboFEI@Work           | ----------------- |
@@ -87,9 +87,9 @@ Table of contents:
   </tr>
   <tr>
     <td><img src="Arena/arena_2d.jpeg" /><br>Navigation and Follow Me</td>
-    <td><img src="Arena/arena_2d.jpeg" /><br>Speech Recognition & Audio Detection</td>
-    <td><img src="Arena/arena_2d.jpeg" /><br>Personal Recognition</td>
-    <td><img src="Arena/arena_2d.jpeg" /><br>Manipulation and Object Recognition</td>
+    <td><img src="Arena/arena_sr.jpeg" /><br>Speech Recognition & Audio Detection</td>
+    <td><img src="Arena/arena_pr.jpeg" /><br>Personal Recognition</td>
+    <td><img src="Arena/arena_mor.jpeg" /><br>Manipulation and Object Recognition</td>
   </tr>
   <tr>
     <td><img src="Arena/arena_2d.jpeg" /><br>Carry My Luggage</td>
@@ -161,7 +161,7 @@ Table of contents:
     <td><img src="Objects/bag.jpeg" width="50%"/><br>Bag</td>
     <td><img src="Objects/garbage_bin.jpeg" width="50%"/><br>Garbage Bin</td>
     <td><img src="Objects/garbage_lid.jpeg" width="50%"/><br>Garbage Lid</td>
-    <td><img src="Objects/fruit.jpg" width="50%"/><br>Garbage</td>
+    <td><img src="Objects/garbage.jpeg" width="50%"/><br>Garbage</td>
   </tr>
 <table>
 
