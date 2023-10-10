@@ -1,8 +1,7 @@
 # Robocup@HOME - Brazil - 2023 - Salvador
 
 Table of contents:
-- [Scores](Informações-Scores.pdf)
-<!-- - [Predefined Questions](Informações-Questions.pdf) -->
+- [Score](score.pdf)
 - [Schedule](#schedule)
 - [Arena layout](#arena-layout)
 - [Tasks setup](#tasks-setup)
@@ -11,23 +10,6 @@ Table of contents:
 - [Person Names](person-names)
 - [Questions context](questions-contex)
 - [Questions predefined](questions-predefined)
-
-## Scores:
-
-# Poster 
-
-|              | BahiaRT | FBots | PinguimBots | RoboFEI@home | UTBot       | Warthog | Pequi Mec   | RoboFEI@Work |
-| ------------ | ------- | ----- | ----------- | ------------ | ----------- | ------- | ----------- | ------------ |
-| BahiaRT      |         | 75    | 82          | 81           | 84          | 81      | 80          | \-           |
-| FBots        | 75      | \-    | 86          | 88           | 83          | 77      | 88          | \-           |
-| PinguimBots  | 73      | 92    | \-          | 91           | 87          | 73      | 67          | \-           |
-| RoboFEI@home | 30      | 85    | 67          | \-           | 60          | 44      | 36.5        | \-           |
-| UTBot        | 59      | 85    | 67          | 87           | \-          | 59      | 74          | \-           |
-| Warthog      | 65      | 76    | 83          | 71           | 77          | \-      | 69          | \-           |
-| Pequi Mec    | 52      | 79    | 81          | 85           | 85          | 59      | \-          | \-           |
-| RoboFEI@Work | \-      | \-    | \-          | \-           | \-          | \-      | \-          | \-           |
-|              |         |       |             |              |             |         |             |              |
-|              | 59      | 82    | 77.66666667 | 83.83333333  | 79.33333333 | 65.5    | 69.08333333 | 0            |
 
 ## Schedule
 
