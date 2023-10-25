@@ -2,6 +2,7 @@
 
 Table of contents:
 - [Score](score.pdf)
+- [Teams](#teams)
 - [Schedule](#schedule)
 - [Arena layout](#arena-layout)
 - [Tasks setup](#tasks-setup)
@@ -10,6 +11,20 @@ Table of contents:
 - [Person Names](person-names)
 - [Questions context](questions-contex)
 - [Questions predefined](questions-predefined)
+
+## Teams
+
+| Team Name        | Captain           | TDP | Poster |
+| -----------------| ----------------- | - | - |
+| BahiaRT@Home     | Tamir Amorim.     | [TDP](TDPs/BahiaRT@Home.pdf)     | [Poster](Posters/BahiaRT@Home.pdf) |
+| FBot@Home        | Jardel Dionizio.  | [TDP](TDPs/FBot@Home.pdf)        | [Poster](Posters/FBot@Home.pdf)|
+| PinguimBots@Home | kristofer Kappel. | [TDP](TDPs/PinguimBots@Home.pdf) | [Poster](Posters/PinguimBots@Home.pdf)|
+| PQMEC@HOME       | José Teles.       | [TDP](TDPs/PQMEC@Home.pdf)       | [Poster](Posters/PQMEC@Home.pdf)|
+| RoboFEI@Home     | Flora Aidar.      | [TDP](TDPs/RoboFEI@Home.pdf)     | [Poster](Posters/RoboFEI@Home.pdf)|
+| RoboFEI@Work     | ----------------- | [TDP](TDPs/RoboFEI@Work.pdf)     | [Poster](Posters/RoboFEI@Work.pdf)|
+| UTBots@Home      | Gustavo Fardo.    | [TDP](TDPs/UTBots@Home.pdf)      | [Poster](Posters/UTBots@Home.pdf)|
+| Warthog@Home     | Rhayna Casado.    | [TDP](TDPs/Warthog@Home.pdf)     | [Poster](Posters/Warthog@Home.pdf)|
+
 
 ## Schedule
 
@@ -56,19 +71,6 @@ Table of contents:
 | Team meating 3: | Doubts about NF    | Doubts about HK                 |                                                       |
 | Team meating 4: | Doubts about PH    |                                 |                                                       |
 | Team meating 5: | Doubts about Final | Election of the next OC members | What do we expect for the next years at robocup@home? |
-
-## Teams
-
-|   | Names                  | Captain           |
-| - | ---------------------- | ----------------- |
-| 1 | BahiaRT @Home          | Tamir Amorim.     |
-| 2 | Warthog Robotics @Home | Rhayna Casado.    |
-| 3 | UTBots@Home            | Gustavo Fardo.    |
-| 4 | RoboFEI@Home           | Flora Aidar.      |
-| 5 | FBots                  | Jardel Dionizio.  |
-| 6 | RoboFEI@Work           | ----------------- |
-| 7 | PQMEC@HOME             | José Teles.       |
-| 8 | PinguimBots@Home       | kristofer Kappel. |
 
 
 ## Arena layout:
