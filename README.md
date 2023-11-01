@@ -1,3 +1,24 @@
+# RoboCup Brazil Open 2023
+- Latin American Robotics Competition (LARC 2023)
+- Competição Brasileira de Robótica (CBR 2023)
+- Salvador - BA - Brazil
+- October 7-12, 2023
+
+## Organizers 
+- Brazil Open / LARC/ CBR 2023:
+  - Chair: [André Ferreira (UFES)](http://lattes.cnpq.br/5382777943593826)
+  - Vice-Chair: [Tiago Pereira do Nascimento (UFPB)](http://lattes.cnpq.br/1641673656667170)
+- RoboCup@Home 2023: 
+  - Chair: [Fagner de Assis Moura Pimentel (FEI)](http://lattes.cnpq.br/6747210702910392) <fpimentel@fei.edu.br> 
+  - Organizing Committee:  
+    - Ana Patricia Magalhães (UNEB/UNIFACS) <anapatriciamagalhaes@gmail.com>
+    - Kristofer Kappel (UFPEL) <kskappel@inf.ufpel.edu.br>
+    - Jardel Dyonisio (FURG) <jardel.dyonisio@hotmail.com>
+    - Khaled Hazime Guimarães (FEI) <uniekhguimaraes@fei.edu.br>
+    - Bruno Bock Silva (UTFPR) <brunobock@alunos.utfpr.edu.br>
+    - Heinz Felipe Cavalcante Rahmig (UFG) <heinzfeliperahmig@gmail.com>
+
+
 # Robocup@HOME - Brazil - 2023 - Salvador
 
 Table of contents:
