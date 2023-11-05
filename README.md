@@ -21,6 +21,14 @@
 
 # Robocup@HOME - Brazil - 2023 - Salvador
 
+<table>
+  <tr>
+    <td><img src="Photos/robots.jpeg"/><br>Robots</td>
+    <td><img src="Photos/teams.jpeg"/><br>Teams</td>
+    <td><img src="Photos/welcome_drinks.jpeg"/<br>Welcome drinks</td>
+<table>
+
+
 Table of contents:
 - [Score](score.pdf)
 - [Teams](#teams)
